@@ -1,7 +1,7 @@
 <h1 align="center">NeoVim Color Schemes 🎨</h1>
 
 <div align="center">
-  ![Sofia](./assets/Sofia.png)
+  <img src="./assets/Sofia.png" />
 
   <p>Custom Color Schemes for NeoVim (🎨👆: Sofia)</p>
 </div>
