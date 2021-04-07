@@ -255,7 +255,7 @@ highlights:
   StartifyBracket: 'blue'
   StartifySpecial: 'cyan'
   StartifyVar: 'blue'
-  StartifyPath: 'blue'
+  StartifyPath: 'purple'
   StartifyFile: 'cyan'
   StartifySlash: 'blue'
   StartifyHeader: 'green'
