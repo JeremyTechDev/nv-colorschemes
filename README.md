@@ -1,14 +1,14 @@
 <h1 align="center">NeoVim Color Schemes 🎨</h1>
 
 <div align="center">
-  <img src="./assets/Sofia.png" />
+  <img src="./assets/Sofía.png" />
 
-  <p>Custom Color Schemes for NeoVim (🎨👆: Sofia)</p>
+  <p>Custom Color Schemes for NeoVim (🎨👆: Sofía)</p>
 </div>
 
 ### Installed Themes
 
-- [Sofia](./Sofia.yml)
+- [Sofía](./Sofía.yml)
 
 ### Requirements
 
@@ -35,7 +35,7 @@ require'nvim-treesitter.configs'.setup {
 }
 
 vim.o.syntax = on
-vim.cmd('colorscheme Sofia') -- Or your desired color scheme
+vim.cmd('colorscheme Sofía') -- Or your desired color scheme
 vim.cmd('let g:nvcode_termcolors=256')
 ```
 
@@ -43,7 +43,7 @@ vim.cmd('let g:nvcode_termcolors=256')
 
 - Create a YAML file named as your color scheme (Ex: your_colorscheme_name.yml).
 
-- Create your color scheme. You can use the [Sofia.yml](./Sofia.yml) as a template to start.
+- Create your color scheme. You can use the [Sofía.yml](./Sofía.yml) as a template to start.
 
 - Run the generate script and save the output to the colors directory.
 
